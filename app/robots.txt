@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://bokepsmp.site/sitemap.xml
+Sitemap: https://bokepsma.online/sitemap.xml
