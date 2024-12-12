@@ -1,1 +1,2 @@
-A live demo of the project is available [bokep sma bocil](https://bokepsmabocil.pages.dev)
+[bokepsmabocil](https://bokepsmabocil.pages.dev)
+Fork the [repository](https://github.com/hariurdino) on GitHub.
