@@ -9,7 +9,7 @@ const font = Nunito({ subsets: ["latin"] });
 export const metadata: Metadata = {
     title: `${SITENAME} - Video Bokep Indo Viral Terbaru`,
     description: `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-    metadataBase: new URL("https://bokepsma.online"),
+    metadataBase: new URL("https://bokepsmabocil.pages.dev"),
     alternates: {
         canonical: `/`,
     },
@@ -20,8 +20,8 @@ export const metadata: Metadata = {
         type: `website`,
     },
     verification: {
-        google: 'k7uE8LSD8A_yPDwTOTySR5ZCv_Cuh-uvjYwaR99SwBo',
-        yandex: '4685b1c1b2aeb886',
+        google: 'loJXdUr2dByrhQpJ9-jieBC3hZKyvZuXOSx8We_1S4M',
+        yandex: 'b9170210e9967522',
     },
 };
 
@@ -37,35 +37,35 @@ export default function RootLayout({
         "@type": "Organization",
         "name": `${SITENAME}`,
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "logo": "https://bokepsma.online/favicon.ico",
-        "url": "https://bokepsma.online",
+        "logo": "https://bokepsmabocil.pages.dev/favicon.ico",
+        "url": "https://bokepsmabocil.pages.dev",
         "founder":{
             "@type":"Person",
             "name":"admin",
-            "url":"https://bokepsma.online"
+            "url":"https://bokepsmabocil.pages.dev"
             },
-            "foundingDate":"2024-04-09"
+            "foundingDate":"2024-12-12"
         }
         const jsonLd1 = {
             "@context": "https://schema.org",
         "@type": "WebPage",
         "name": `${SITENAME}`,
-        "url": "https://bokepsma.online",
+        "url": "https://bokepsmabocil.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
-        "image": "https://bokepsma.online/favicon.ico",
+        "image": "https://bokepsmabocil.pages.dev/favicon.ico",
         "potentialAction":{
             "@type":"ReadAction",
-            "target":"https://bokepsma.online"}
+            "target":"https://bokepsmabocil.pages.dev"}
         }
         const jsonLd2 = {
             "@context": "https://schema.org",
         "@type": "WebSite",
         "name": `${SITENAME}`,
-        "url": "https://bokepsma.online",
+        "url": "https://bokepsmabocil.pages.dev",
         "description": `${SITENAME} Video Bokep Indo Jepang Jav Barat Simontok Viral Terbaru Bocil Ngentot Jilbab Smp Mama Sma korea china tante live paksa ngentot abg cewek pelajar.`,
         "potentialAction": { 
         "@type": "SearchAction", 
-          "target": "https://bokepsma.online/?q={search_term}", 
+          "target": "https://bokepsmabocil.pages.dev/?q={search_term}", 
             "query-input": "required name=search_term"}
         }
     return (
